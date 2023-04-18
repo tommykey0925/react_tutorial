@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
-function MyButton() {
+const MyButton = () => {
   return (
-    <button>I'm a button</button>
+    <button>split button is difficult imo</button>
   );
 }
 
