@@ -1,2 +1,3 @@
-# react_test
-react練習
+# react_tutorial
+reactのtutorial
+
