@@ -4,7 +4,7 @@
   "name": "Java",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
-  "workspaceFolder": "/template_java_node",
+  "workspaceFolder": "/react_tutorial",
   // Set *default* container specific settings.json values on container create.
     "customizations": {
       "vscode":{
